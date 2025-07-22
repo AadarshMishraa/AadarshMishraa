@@ -65,7 +65,7 @@ A full-stack simulation tool to automate access point placement using signal mod
 
 ### 📫 Connect With Me
 - 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aadarsh-mishra-433b2135a/))
-- 💬 Mail: your.email@example.com
+- 💬 Mail: mishraaadarsh776@gmail.com
 
 ---
 
